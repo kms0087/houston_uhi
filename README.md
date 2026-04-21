@@ -1,4 +1,4 @@
-# houston_uhi
+# Houston/Harris County UHI
 Final project for AES 408
 
 This project analyzes the Urban Heat Island (UHI) effect in Harris County, Texas using Landsat satellite imagery. The goal is to identify how urban areas differ in temperature compared to vegetated areas and how this pattern changes over time.
