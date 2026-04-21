@@ -5,7 +5,6 @@ This project analyzes the Urban Heat Island (UHI) effect in Harris County, Texas
 The analysis uses data from August 2015, 2020, and 2025 to compare spatial and temporal patterns in urban heat.
 
 To show UHI, I calculated it as:
-
 UHI = Pixel Temperature - Mean Temperature of Vegetated Areas
 
 Outputs:
